@@ -1,0 +1,5 @@
+# decision-records bundle patch: registers the skill with DSH.
+# Ships SKILL.md only — no host-process code, no browser client.
+- insert:
+    - id: decision-records
+      name: 'decision-records'

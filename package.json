@@ -1,0 +1,15 @@
+{
+  "name": "decision-records",
+  "version": "0.1.0",
+  "description": "Lightweight decision records for any project: capture decisions that are expensive to reverse or re-litigate — decision, alternatives, the why, reversibility — append-only, supersede instead of rewrite, kept where the project lives so the next session inherits the reasoning, not just the conclusion.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenneyZhuang/decision-records.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
